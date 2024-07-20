@@ -53,6 +53,38 @@ Pico Enterprise Offerings:
 
 Looking forward to seeing Pico Enterprise demos. Some potential here, but so far, not a solution for Work Buddy's custom requirements to start building today.
 
+#### Varjo XR-4 Enterprise - YES 
+https://developer.varjo.com/docs/native/adjusting-camera-settings#getting-raw-camera-images  
+https://developer.varjo.com/lab-tools  
+https://developer.varjo.com/docs/native/varjo-native-sdk
+
+**Varjo does allow raw camera access.**
+
+Varjo is the technical leader in the industry.  
+They make a very good headset, with best in-class native SDK enterprise support.
+
+*However* we have some warning notes:
+
+***Image Quality***
+
+`The resolution of the image will be lower than what you are able to see through VST.`   
+We would have to see the results. Low resolution images may handicap us.
+
+***Price***
+
+The Varjo XR-4 Enterprise edition is **retailing for ~$10,000 USD**.
+Creating a business margin on-top of that high hardware price could be difficult, but possibly doable in Enterprise scenarios with investment funding and a Varjo partnership.
+
+***Form Factor***
+
+We think the best XR headset platform for augmenting IRL workers needs to be light weight and  built tough for outdoor and indoor use. The Varjo is a fine piece of tech, but fragile in outdoor use. It is more for simulators and indoor use currently. We need to build our own PC pack for the Varjo as they recommend Nvidia GPU PC hardwire connections, but Work Buddy needs to be battery powered for mobility. Can't plug a cord into the Work Buddy from the wall during use.
+We have goals of making Work Buddy safety rated, impact resistant and waterproof in a hardhat helmet, this would require heavy modifications to the Varjo hardware.
+
+A new Varjo XR-Outdoor edition + Work Buddy collab would be ideal but let's stay in reality.
+
+> Varjo is definitely a potential headset candidate for v0 Work Buddy alpha development to get moving, but not going to happen home brewed without funding / partnerships.
+
+
 ### Other Factors with 3rd Party Headsets:
 
 **Performance**
