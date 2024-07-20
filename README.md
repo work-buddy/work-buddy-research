@@ -89,6 +89,40 @@ A new Varjo XR-Outdoor edition + Work Buddy collab would be ideal but let's stay
 
 > Varjo is definitely a potential headset candidate for v0 Work Buddy alpha development to get moving, but not going to happen home brewed without funding / partnerships.
 
+#### Magic Leap 2 - YES
+
+![Screenshot from 2024-07-20 09-50-54](https://github.com/user-attachments/assets/1835c0d7-c78e-484c-964c-372f05509ef9)
+
+https://developer-docs.magicleap.cloud/docs/guides/ml2-overview/  
+https://developer-docs.magicleap.cloud/docs/guides/features/android-camera/
+
+> The Magic Leap 2 supports the Android Camera2 NDK APIs.
+- 0 - Main Camera - provides access to compressed video and still images.
+- 1 - CV Camera - best used for Computer vision scenarios, uncompressed, raw frames.
+- 3 - Mixed Reality Capture Camera - provides the ability to capture virtual and mixed reality content.
+
+This is quite impressive from Magic Leap to be honest.
+They have the best open docs about raw camera access.
+
+Magic Leap 2 may be our best choice if we did not make our own hardware.
+
+**Reasons why Magic Leap is good:**
+- Transparent AR Lens. Passthrough XR using cameras is not the best for IRL work. VR support is not a priority for Work Buddy.
+- Compute and Battery hip pack. This is the only logical way to make XR glasses for best heat / weight. It would be unsafe if battery due to impact exploded on your face.
+- Dynamic Dimmer lens. This is needed for bright outdoor use in XR.
+- Price is only $3500 USD. For the amount of features and quality of XR hardware, this is a great price compared to say the Varjo.
+
+**Some areas to improve:**
+- Pack is a bit small, heard it gets very hot. We think we can go 2-4x bigger with the Pack and create a toolbelt harness attachment like many tradesworker use. This would offer near Desktop level XR performance.
+- Waterproofing, durability, safety hardhat integrations. It is mostly indoor use only, a fragile headset.
+
+**Similar Dream to Work Buddy:**
+
+https://www.youtube.com/watch?v=5X6BXRUacBo
+
+Magic Leap is already working on similar tech with functioning demos.  However, XR would benefit greatly by being open-source.  
+We think headset companies are too limited using only cameras to do everything. "Smart Tools" with headset pairing is the next-gen for precise AR tracking.  
+XR will have to get over trying to do everything with Computer Vision.
 
 ### Other Factors with 3rd Party Headsets:
 
