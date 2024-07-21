@@ -8,9 +8,9 @@ Research about XR, computer vision, AI and company plans.
 - [Headset Comparisons. Do we need to make our own headset? ](#headset-comparisons-do-we-need-to-make-our-own-headset)
   - [Quest 3](#quest-3)
   - [Apple Vision Pro](#apple-vision-pro)
-  - [Pico](#pico-4-enterprise)
-  - [Magic Leap](#magic-leap-2)
-  - [Varjo](#varjo-xr-4-enterprise)
+  - [Pico 4 Enterprise](#pico-4-enterprise)
+  - [Varjo XR-4](#varjo-xr-4-enterprise)
+  - [Magic Leap 2](#magic-leap-2)
 
 ## Examples of XR augmenting work IRL. What are we building?
 
