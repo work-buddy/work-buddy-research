@@ -4,15 +4,15 @@ Research about XR, computer vision, AI and company plans.
 
 ## Table of Contents
 
-- [Examples of XR augmenting workers IRL. What are we building? ](#what-are-we-building-examples-of-xr-augmenting-work-irl)
+- [Examples of XR augmenting workers IRL. What are we building? ](#examples-of-xr-augmenting-work-irl-what-are-we-building)
 - [Headset Comparisons. Do we need to make our own headset? ](#headset-comparisons-do-we-need-to-make-our-own-headset)
   - [Quest 3](#quest-3)
   - [Apple Vision Pro](#apple-vision-pro)
-  - [Piico](#pico-4-enterprise)
+  - [Pico](#pico-4-enterprise)
   - [Magic Leap](#magic-leap-2)
   - [Varjo](#varjo-xr-4-enterprise)
 
-## What are we building? Examples of XR augmenting work IRL
+## Examples of XR augmenting work IRL. What are we building?
 
 The inspiration for an AI enhanced XR Work Buddy HUD is best sourced from Master Chief in HALO video games.
 ![image](https://github.com/user-attachments/assets/03ad1055-2169-415a-b536-ff445a69cc5a)
@@ -24,9 +24,10 @@ Work Buddy wants to adapt similar HUD concepts such as minimap, materials counts
 
 Note that in HALO all of the weapons also interfaced uniquely with the wearer. "Smart Tools" has a future with Work Buddy.
 
-Imaginary Concept:
+### Work Buddy HUD Concepts:
 
-...
+#### Fast Food Worker
+![image](https://github.com/user-attachments/assets/d64b970c-d239-407f-86a5-68301dec0f76)
 
 ## Headset Comparisons. Do we need to make our own headset?
 
