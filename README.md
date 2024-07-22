@@ -29,6 +29,9 @@ Note that in HALO all of the weapons also interfaced uniquely with the wearer. "
 #### Fast Food Worker
 ![image](https://github.com/user-attachments/assets/d64b970c-d239-407f-86a5-68301dec0f76)
 
+#### Shipping Container Operator
+![image](https://github.com/user-attachments/assets/8b41bfa9-e2f6-4cf4-afe2-1a1b8d975d64)
+
 ## Headset Comparisons. Do we need to make our own headset?
 
 Let's evaluate...
